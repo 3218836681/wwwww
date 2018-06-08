@@ -3,8 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="e8439a3b-e561-4d39-87d4-3e8439c133e5" name="Default" comment="">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
 =======
+=======
+>>>>>>> Stashed changes
       <change beforePath="$PROJECT_DIR$/readme" afterPath="$PROJECT_DIR$/readme" />
 >>>>>>> Stashed changes
     </list>
@@ -29,6 +32,7 @@
   </component>
   <component name="FileEditorManager">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     <leaf>
       <file leaf-file-name="readme" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/readme">
@@ -51,6 +55,9 @@
         </entry>
       </file>
     </leaf>
+=======
+    <leaf />
+>>>>>>> Stashed changes
 =======
     <leaf />
 >>>>>>> Stashed changes
@@ -472,24 +479,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/binjinghot/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="123" column="33" lean-forward="false" selection-start-line="123" selection-start-column="27" selection-end-line="123" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/binjinghot/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="21" column="26" lean-forward="false" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
-          <folding>
-            <element signature="e#634#666#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
@@ -586,6 +575,7 @@
     <entry file="file://$PROJECT_DIR$/readme">
       <provider selected="true" editor-type-id="text-editor">
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
         <state relative-caret-position="0">
           <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
           <folding />
@@ -596,6 +586,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+=======
+        <state relative-caret-position="27">
+          <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
+>>>>>>> Stashed changes
 =======
         <state relative-caret-position="27">
           <caret line="1" column="9" lean-forward="true" selection-start-line="1" selection-start-column="9" selection-end-line="1" selection-end-column="9" />
